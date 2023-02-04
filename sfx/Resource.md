@@ -1,14 +1,16 @@
 Sounds
+
     Background
+    
         Free Casual Game Music Pack Vol. 2 - Zakiro
         https://zakiro101.itch.io/free-casual-game-music-pack-vol-2 
-    Taking damage sound
+   Taking damage sound  
         Mobs / Boss
             Springy jump - EFindlay
             https://freesound.org/people/EFindlay/sounds/663831/ 
         MC
             Hit 6 - ihitokage
-            https://freesound.org/people/ihitokage/sounds/395362/ 
+            https://freesound.org/people/ihitokage/sounds/395362/
     Mob
         Dying sound
             Arcade mechanical bling - envato elements
