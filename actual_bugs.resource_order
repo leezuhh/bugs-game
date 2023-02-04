@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"oCamera","order":2,"path":"objects/oCamera/oCamera.yy",},
+    {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
+    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+  ],
+}
