@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"buggy_jump_strip5","order":5,"path":"sprites/buggy_jump_strip5/buggy_jump_strip5.yy",},
+    {"name":"oEnemy","order":3,"path":"objects/oEnemy/oEnemy.yy",},
+    {"name":"oCamera","order":2,"path":"objects/oCamera/oCamera.yy",},
+    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"d760ac48_775a_431e_a5e4_e345486d8f07","order":1,"path":"sprites/d760ac48_775a_431e_a5e4_e345486d8f07/d760ac48_775a_431e_a5e4_e345486d8f07.yy",},
+    {"name":"Sprite7","order":1,"path":"sprites/Sprite7/Sprite7.yy",},
+    {"name":"enemy_idle_strip4","order":4,"path":"sprites/enemy_idle_strip4/enemy_idle_strip4.yy",},
+    {"name":"sprite3","order":2,"path":"sprites/sprite3/sprite3.yy",},
+    {"name":"sWall","order":3,"path":"sprites/sWall/sWall.yy",},
+  ],
+}
