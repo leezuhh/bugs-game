@@ -1,4 +1,5 @@
-// focus camera on player
+/// @description Insert description here
+// You can write your code in this editor
 var xCam = oPlayer.x - wCam / 2;
 var yCam = oPlayer.y - hCam / 2;
 

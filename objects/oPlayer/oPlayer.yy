@@ -29,12 +29,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "buggy_strip3",
-    "path": "sprites/buggy_strip3/buggy_strip3.yy",
+    "name": "sprite3",
+    "path": "sprites/sprite3/sprite3.yy",
   },
-  "spriteMaskId": {
-    "name": "buggy_strip3",
-    "path": "sprites/buggy_strip3/buggy_strip3.yy",
-  },
+  "spriteMaskId": null,
   "visible": true,
 }
